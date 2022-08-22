@@ -1,0 +1,81 @@
+#img1{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+}
+#cart{
+    width: 50px;
+    height: 25px;
+    cursor: pointer;
+}
+#signin:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#232F3E;
+    height:60px;
+    color:white
+    
+    
+}
+#input{
+    width: 450px;
+    height: 30px;
+}
+
+#returns:hover{
+    background-color: black;
+    cursor: pointer;
+}
+#btn1:hover{
+    height: 60px;
+   
+    cursor: pointer;
+}
+#p1:hover{
+    background-color: black;
+    cursor: pointer;
+    
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:black;
+    height:50px;
+    color: white;
+    cursor: pointer;
+
+}
+.nav:hover{
+    color: wheat;
+}
+
+#banner1{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#banner2{
+    max-width: 100%;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#232F3E;
+    height:20px;
+    color:white;
+    margin-top: 70px;
+   
+
+}
+
+
